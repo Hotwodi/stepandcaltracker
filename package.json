@@ -13,5 +13,8 @@
   },
   "devDependencies": {
     "@react-native-community/cli": "latest"
+  },
+  "scripts": {
+    "android": "expo run:android"
   }
 }
