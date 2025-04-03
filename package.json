@@ -9,12 +9,16 @@
     "react-native-screens": "^3.20.0",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/stack": "^6.3.16",
-    "expo": "^49.0.0"
+    "expo": "^49.0.0",
+    "react": "18.3.1"
   },
   "devDependencies": {
     "@react-native-community/cli": "latest"
   },
   "scripts": {
-    "android": "expo run:android"
-  }
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "name": "stepandcaltracker",
+  "version": "1.0.0"
 }
