@@ -2,9 +2,10 @@
   "expo": {
     "extra": {
       "eas": {
-        "projectId": "4775dc2a-4b07-47d1-84ee-591c8bd36042"
+        "projectId": "5d049e8f-aeda-466a-9381-e1e1642fa80a"
       }
     },
-    "owner": "hotwodi"
+    "owner": "hotwodi",
+    "slug": "step-counter-app"
   }
 }
