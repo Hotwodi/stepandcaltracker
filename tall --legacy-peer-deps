@@ -1,0 +1,71 @@
+[33mcommit c83cd62549a4159516a3a0d63cc26f17d6a98acf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtry-9ac480ac[m[33m)[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Apr 3 19:31:40 2025 -0500
+
+    Update app configuration to match EAS requirements
+
+[33mcommit 14208c18eb36d49afe4edfa70815e6c3797c1f5e[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Apr 3 17:28:14 2025 -0500
+
+    Fix cli.appVersionSource warning and add app.config.js
+
+[33mcommit 0c802230f9a0ef4681733726fd2a910699d29f2a[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Apr 3 17:21:17 2025 -0500
+
+    Update app configuration to match EAS requirements
+
+[33mcommit e99ccd25cc3abeef1eb1028521d2b13b36a42f38[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Apr 3 12:00:24 2025 -0500
+
+    Clean up configuration
+
+[33mcommit 7382021c0ad7f2da1ac77475a87231251e64c234[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Apr 3 11:51:06 2025 -0500
+
+    Clean up configuration
+
+[33mcommit c5acd9d39bc66388471e0b15817c4d07af268be3[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Apr 3 09:15:00 2025 -0500
+
+    Fix React dependency conflicts and configure EAS project
+
+[33mcommit ba6adf8d16ccbb284dbd97b813fe305d6c78e85e[m[33m ([m[1;33mtag: [m[1;33mworks[m[33m)[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Apr 3 07:39:35 2025 -0500
+
+    Configure EAS project with correct project ID
+
+[33mcommit cd7a9b6c8f56f60dc1313790d25c3729c41fe0b7[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Wed Apr 2 18:34:46 2025 -0500
+
+    Remove node_modules from repository
+
+[33mcommit 507296f256c199cae1fac73df273968c31b9a8fe[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Wed Apr 2 18:32:52 2025 -0500
+
+    Normalize line endings
+
+[33mcommit 62cede0e939545ee9c4af1cebcb57a09919b4734[m[33m ([m[1;32mgood[m[33m)[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Mar 27 11:57:12 2025 -0500
+
+    Updated project configuration and Firebase integration
+
+[33mcommit 7455d42bf85fd30e5fa3794ac273346f5008a29d[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Mar 27 11:50:51 2025 -0500
+
+    Updated project files and configurations
+
+[33mcommit be91404b83d58df6e4319d37fd8e3f6dfcb48096[m
+Author: Reggie Washington <[1;31mhotwodi4@gmail.com[m>
+Date:   Thu Mar 27 11:26:12 2025 -0500
+
+    Initial commit
