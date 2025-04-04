@@ -1,43 +1,20 @@
 {
   "cli": {
     "version": ">= 3.13.0",
-    "appVersionSource": "remote",
-    "requireCommit": false
+    "appVersionSource": "remote"
   },
   "build": {
-    "development": {
-      "developmentClient": true,
-      "distribution": "internal",
-      "node": "16.19.0",
-      "env": {
-        "npm_config_legacy_peer_deps": "true"
-      }
-    },
-    "preview": {
-      "distribution": "internal",
-      "node": "16.19.0",
-      "env": {
-        "npm_config_legacy_peer_deps": "true"
-      }
-    },
     "production": {
       "node": "16.19.0",
-      "distribution": "store",
+      "android": {
+        "buildType": "apk"
+      },
       "env": {
         "npm_config_legacy_peer_deps": "true"
-      },
-      "android": {
-        "buildType": "apk",
-        "image": "ubuntu-18.04-android-30-ndk-r19c"
-      },
-      "ios": {
-        "image": "macos-monterey-12.6-xcode-14.2"
-      },
-      "prebuildCommand": "npx expo-doctor && npm install --legacy-peer-deps"
+      }
     }
   },
   "submit": {
     "production": {}
-  },
-  "projectId": "5d049e8f-aeda-466a-9381-e1e1642fa80a"
+  }
 }

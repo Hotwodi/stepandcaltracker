@@ -1,8 +1,11 @@
-# Clean up any conflicting files
-Remove-Item -Path "app.json" -ErrorAction SilentlyContinue
+# Clean npm cache
+npm cache clean --force
 
-# Install dependencies properly
+# Install dependencies with legacy peer deps
 npm install --legacy-peer-deps
 
-# Run the build
-npx eas-cli build --platform android --profile production
+# Initialize EAS
+npx eas-cli init --non-interactive
+
+# Build with strict flags
+npx eas-cli build --platform android --profile production --non-interactive
